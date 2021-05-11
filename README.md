@@ -1,0 +1,1 @@
+The program is designed to receive an electronic ticket for a trip to the dentist. It allows you to set a convenient date, time, doctor's name, mail for notification, as well as the interval at which the availability of a free coupon will be checked.
